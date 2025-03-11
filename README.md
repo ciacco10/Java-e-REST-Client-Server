@@ -18,6 +18,6 @@ Il server permette di **salvare, recuperare e cancellare elementi** mantenendo i
 ## 🚀 Come avviare il server
 ### 1️⃣ Clonare il progetto
 ```sh
-git clone https://github.com/tuo-username/ServerREST.git
+git clone https://github.com/ciacco10/ServerREST.git
 cd ServerREST
 
